@@ -1,0 +1,28 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "TODO app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoisrr/node-tutorial.git"
+  },
+  "keywords": [
+    "TODO",
+    "list"
+  ],
+  "author": "Hugo I. Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoisrr/node-tutorial/issues"
+  },
+  "homepage": "https://github.com/hugoisrr/node-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
